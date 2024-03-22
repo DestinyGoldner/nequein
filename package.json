@@ -1,0 +1,36 @@
+{
+  "name": "nequein",
+  "description": "Extension interface for Houdoku, a manga reader for the desktop",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DestinyGoldner/nequein.git"
+  },
+  "author": "GuadalupeJohnston",
+  "license": "MIT",
+  "keywords": [
+    "consequuntur",
+    "suscipit",
+    "comics",
+    "extensions",
+    "plugins",
+    "typescript",
+    "ad"
+  ],
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.10",
+    "typescript": "^4.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/DestinyGoldner/nequein.git/issues"
+  }
+}
